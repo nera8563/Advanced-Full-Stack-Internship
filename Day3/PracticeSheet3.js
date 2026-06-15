@@ -15,7 +15,6 @@ console.log(student.name);
 student.greet = function () {
     console.log(`Hello I am ${this.name}`);
 };
-
 student.greet();
 
 // Q4. Object me isAdult() method banao.
