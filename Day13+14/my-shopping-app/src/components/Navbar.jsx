@@ -1,21 +1,3 @@
-//  import react from "react";
- 
-//  function Navbar(){
-//     return (
-//         <div style = {{backgroundColor:"lightblue",
-//         border: "2px solid pink",borderRadius :"20px"
-// }} >
-//     <a href="#" style={{ marginRight: "20px" }}>Home</a>
-//     <a href="#" style={{ marginRight: "20px" }}>About</a> 
-//     <a href="#" style={{ marginRight: "20px" }}>Profile</a> 
-//     <a href="#">Contact</a>
-//           </div>
-//     );    
-//  }
-// export default Navbar;
-
-
-
 import React from "react";
 
 function Navbar({
