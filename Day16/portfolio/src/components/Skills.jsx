@@ -4,7 +4,7 @@ import './Skills.css';
 const skillGroups = [
   {
     category: 'Frontend Technologies',
-    skills: ['React.js', 'JavaScript (ES6+)', 'HTML5', 'CSS3',  'Visual Branding & Asset Creation', 'Responsive Design'],
+    skills: ['React.js', 'JavaScript (ES6+)', 'HTML5', 'CSS3',  'Responsive Design'],
   },
   {
     category: 'Backend Technologies',
@@ -28,7 +28,6 @@ export default function Skills() {
   return (
     <section className="section skills-section" id="skills">
       <div className="container">
-        <span className="eyebrow">What I Know</span>
         <h2 className="section-title">Technical Skills</h2>
         <p className="section-subtitle">
           Technologies and tools I work with to build great products.

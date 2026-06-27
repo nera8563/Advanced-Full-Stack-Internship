@@ -20,11 +20,9 @@ export default function Contact() {
   return (
     <section className="section" id="contact">
       <div className="container">
-        <span className="eyebrow">Get In Touch</span>
+       
         <h2 className="section-title">Let's Connect</h2>
-        <p className="section-subtitle">
-          Looking for a dedicated Front End Developer or a passionate intern to join your team? Let's discuss how I can contribute to your next project.
-        </p>
+    
 
         <div className="contact-grid">
           {/* Info */}

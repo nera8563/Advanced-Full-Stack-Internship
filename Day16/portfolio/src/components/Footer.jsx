@@ -7,11 +7,11 @@ export default function Footer() {
       <div className="container footer-inner">
         <span className="footer-logo">
           <span style={{ color: 'var(--accent-light)' }}>&lt;</span>
-         Nera Shyoran
+         Nera
           <span style={{ color: 'var(--accent-light)' }}>/&gt;</span>
         </span>
         <p className="footer-copy">
-          © {new Date().getFullYear()} Nera. All rights reserved. &nbsp;•&nbsp; Built with React
+          © {new Date().getFullYear()} Nera Shyoran. All rights reserved. &nbsp;•&nbsp; Built with React
         </p>
       </div>
     </footer>

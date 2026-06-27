@@ -10,7 +10,7 @@ const projects = [
     tags: ['React.js', 'Frontend', 'Search & Filter'],
     image: 'https://via.placeholder.com/400x220/1c1c28/7c3aed?text=Job+Board+App',
     live: null, 
-    code: 'https://github.com/nera8563', // Update with the specific repository link later if needed
+    code: 'https://github.com/nera8563/react-projects/tree/main/job-board', // Update with the specific repository link later if needed
   },
   {
     title: 'To-Do List App',
@@ -19,7 +19,7 @@ const projects = [
     tags: ['React.js', 'React Hooks', 'State Management'],
     image: 'https://via.placeholder.com/400x220/1c1c28/a855f7?text=To-Do+List+App',
     live: null,
-    code: 'https://github.com/nera8563',
+    code: 'https://github.com/nera8563/react-projects/tree/main/todo-app',
   },
   {
     title: 'User List App',
@@ -28,7 +28,7 @@ const projects = [
     tags: ['React.js', 'Components', 'Dynamic UI'],
     image: 'https://via.placeholder.com/400x220/1c1c28/7c3aed?text=User+List+App',
     live: null,
-    code: 'https://github.com/nera8563',
+    code: 'https://github.com/nera8563/react-projects/tree/main/list',
   },
 ];
 
@@ -36,7 +36,7 @@ export default function Projects() {
   return (
     <section className="section projects-section" id="projects">
       <div className="container">
-        <span className="eyebrow">What I've Built</span>
+        
         <h2 className="section-title">Featured Projects</h2>
         <p className="section-subtitle">
           A selection of projects I'm proud to have built.

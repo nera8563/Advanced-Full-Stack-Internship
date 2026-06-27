@@ -5,7 +5,7 @@ const experiences = [
   {
     period: 'June 2026 – Present',
     role: 'MERN Stack Trainee',
-    company: 'Geeta Technical Hub',
+    company: 'Geeta Technical Hub | Geeta University , Panipat',
     type: 'work',
     points: [
       'Focusing on frontend web development, building dynamic and responsive single-page applications (SPAs) using React.js.',
@@ -37,6 +37,7 @@ const experiences = [
     ],
   },
 ];
+
 const education = [
   {
     period: '2024 – 2028 (Current)',
@@ -72,9 +73,7 @@ export default function Experience() {
       <div className="container">
         <span className="eyebrow">My Journey</span>
         <h2 className="section-title">Experience & Education</h2>
-        <p className="section-subtitle">
-          Where I've worked and what I've studied.
-        </p>
+        
 
         <div className="exp-tabs">
           <button

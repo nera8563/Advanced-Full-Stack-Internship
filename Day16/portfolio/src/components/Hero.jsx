@@ -13,11 +13,11 @@ export default function Hero() {
         <div className="hero-text fade-up">
           <span className="eyebrow">👋 Hello, I'm</span>
           <h1 className="hero-name">
-            <span className="hero-accent">Nera</span>
+            <span className="hero-accent">Nera </span>
           </h1>
           <h2 className="hero-role">Front End Developer</h2>
           <p className="hero-bio">
-           Frontend developer skilled in React.js, JavaScript, HTML, and CSS, dedicated to creating dynamic user interfaces. Currently pursuing a B.Tech in CSE with hands-on experience in component-based architecture and state management.
+            Passionate Front End Developer and second-year B.Tech CSE student focused on building responsive, user-friendly web applications. Specialized in HTML, CSS, JavaScript, and React.js.
           </p>
           <div className="hero-actions">
             <a href="#projects" className="btn btn-primary">
@@ -43,7 +43,7 @@ export default function Hero() {
               className="hero-img"
             />
           </div>
-      
+         
         </div>
       </div>
 
